@@ -1,4 +1,4 @@
-Django==2.2.10
+Django==2.2.20
 djangorestframework>3.9.0,<3.10.1
 flake8
 psycopg2>=2.7.5,<2.8.0
